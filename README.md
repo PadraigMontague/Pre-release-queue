@@ -1,5 +1,5 @@
 # Pre Release Queue webservice
-    During the covid-19 pandemic I noticed that people queued for computer hardware and there was not an easy way to manage queues outside shops. I decided to develop this webservice to help solve this problem.
+During the covid-19 pandemic I noticed that people queued for computer hardware and there was not an easy way to manage queuesoutside shops. I decided to develop this webservice to help solve this problem.
 
 ## Technologies used
     Core technologies:
@@ -7,9 +7,9 @@
 
 
 ## How to run the project?
-    To run the project download the project using git or as a zip file. Once the download is completed open the cmd and cd into the folder.
+To run the project download the project using git or as a zip file. Once the download is completed open the cmd and cd into the folder.
     Then run the following commands:
-        - dotnet run
+         - dotnet run
 
 ## Pre Release Queue webservice API endpoints:
     User endpoints:
